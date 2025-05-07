@@ -1,0 +1,27 @@
+# Node dependencies
+**/node_modules/
+**/dist/
+
+# Env files
+**/.env
+
+# Log files
+*.log
+
+# OS/System files
+.DS_Store
+
+# Build outputs
+**/build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Lock files (optional, if you want collaborators to generate their own)
+# package-lock.json
+# yarn.lock
+
+# Cache
+**/.cache/
+
