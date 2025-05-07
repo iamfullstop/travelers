@@ -3,7 +3,7 @@ Aim to full-featured bus booking and real-time tracking web application.
 
 ---
 
-## ✨ Features
+## ✨ Core Features
 
 ### 🧍 User Panel (For Travelers)
 - 🔍 **Bus Search**: Find buses by route, time, location, and filters (AC/Non-AC, pricing, seat availability).
